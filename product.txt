@@ -1,0 +1,7 @@
+P301,Apple iPhone,Electronics
+P302,Samsung Galaxy,Electronics
+P303,Dell Laptop,Computers
+P304,Lenovo Mouse,Computers
+P305,Sony Headphones,Accessories
+P306,Apple Watch,Electronics
+P307,Canon Camera,Photography
