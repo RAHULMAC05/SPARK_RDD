@@ -32,10 +32,6 @@ This project contains examples and exercises using Apache Spark RDDs (Resilient 
 * Databricks Community Edition Account
 * Apache Spark (RDD API available in Databricks)
 
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
 
 ## ✨ Author
