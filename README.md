@@ -10,7 +10,7 @@ This project contains examples and exercises using Apache Spark RDDs (Resilient 
 
 * Creating RDDs
 * Transformations (map, filter, flatMap, union)
-* Actions (count, collect, take)
+* Actions (count, collect)
 * Word Count Example
 * RDD Persistence
 
@@ -29,8 +29,8 @@ This project contains examples and exercises using Apache Spark RDDs (Resilient 
 ## ⚙️ Requirements
 
 * Python 3.x
-* Databricks Community Edition Account
-* Apache Spark (RDD API available in Databricks)
+* Databricks 
+* Apache Spark (RDD API )
 
 ---
 
